@@ -1,0 +1,8 @@
+praw 
+pandas 
+vadersentiment 
+yfinance 
+matplotlib 
+scipy 
+statsmodels 
+streamlit 
